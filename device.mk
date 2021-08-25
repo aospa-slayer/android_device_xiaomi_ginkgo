@@ -10,6 +10,7 @@ $(call inherit-product, vendor/xiaomi/ginkgo/ginkgo-vendor.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
+    AOSPAGinkgoSettings \
     GinkgoFrameworks \
     GinkgoMiuiCamera \
     GinkgoSystemUI \
