@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
     GinkgoFrameworks \
     GinkgoMiuiCamera \
     GinkgoSystemUI \
-    NoCutoutOverlay \
+    GinkgoNoCutoutOverlay \
     NotchBarKiller
 
 # Audio
