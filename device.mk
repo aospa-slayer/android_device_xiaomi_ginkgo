@@ -178,7 +178,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Fingerprint
 PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.1-service.ginkgo
+    android.hardware.biometrics.fingerprint@2.3-service.ginkgo
 
 # Init
 PRODUCT_PACKAGES += \
