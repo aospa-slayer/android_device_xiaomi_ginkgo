@@ -139,9 +139,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Camera
 $(call inherit-product, vendor/miuicamera/config.mk)
 
-PRODUCT_PACKAGES += \
-    libmedia_jni_shim
-
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.camera.preview.ubwc=0 \
     persist.vendor.camera.isp.clock.optmz=0 \
